@@ -19,6 +19,9 @@ Découverte de Kubernetes dans Azure avec des exercices pratiques
 - [Lab 1](/Lab_1/README.md) : création d'un cluster AKS via le portail Azure + visualisation des ressources via le portail Azure 
 - [Lab 2](/Lab_2/README.md) : création d'un cluster plus avancé via Azure CLI, connexion et utilisation basique de kubectl
 - [Lab 3](/Lab_3/README.md) : création d'un cluster avec plusieurs node pools avec autoscaling via Terraform + déploiement basique d'une application (service de type load balancer)
+
+<img width='800' src='./images/Workshop-aks-day-1.png'/>
+
 #### Après midi
 - Intégration avec d'autres services Azure : Azure Monitor, Azure Policy, Azure Container Registry, Azure Log Anaytics, Azure Application Gateway, Azure NAT Gateway, Microsoft Defender for Cloud...
 - [Lab 4](/Lab_4/README.md): Activation du monitoring avec Azure Monitor
@@ -40,6 +43,8 @@ Découverte de Kubernetes dans Azure avec des exercices pratiques
 - [Lab 12](/Lab_12/README.md) : GitOps avec AKS et Fluxv2 
 - Autoscaling quelles options ? HPA, KEDA, VPA, Virtual Kubelet...
 - Conclusion - Tour de table
+
+<img width='800' src='./images/Workshop-aks-day-2.png'/>
 
 ## Pré requis - compétences
 - Connaissances basiques de Kubernetes : à minima regarder les vidéos suivantes : https://www.youtube.com/watch?v=Srsabd1J-KU et https://www.youtube.com/watch?v=we7prqhRRHA
