@@ -5,7 +5,7 @@ on:
 
 env:
   RG_NAME: "RG-Lab8"
-  CLUSTER_NAME: "myCluster"
+  CLUSTER_NAME: "AKS-Lab-10"
 
   NAMESPACE: "coolapi-namespace"
   MYDEPLOYMENT: "coolapi-deployment"
